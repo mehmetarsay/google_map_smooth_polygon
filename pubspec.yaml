@@ -1,0 +1,20 @@
+name: google_map_smooth_polygon
+description: A package for smooth polygon heatmaps
+version: 1.0.0
+homepage:
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.10.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
