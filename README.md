@@ -1,6 +1,6 @@
 # google_map_smooth_polygon
 
-![Hexagonal vs Smooth Polygon Comparison](assets/image.jpeg)
+![Hexagonal vs Smooth Polygon Comparison](https://github.com/mehmetarsay/google_map_smooth_polygon/blob/main/assets/image.jpeg?raw=true)
 
 This package provides functionality to create smooth transition polygons on Google Maps using Flutter. It helps users to render polygons with smooth edges and transitions, enhancing the visual appeal of map overlays.
 
