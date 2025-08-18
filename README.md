@@ -10,13 +10,6 @@ This package provides functionality to create smooth transition polygons on Goog
 - Customizable polygon styles and animations.
 - Easy integration with existing Flutter projects.
 
-## Getting Started
-
-### Requirements
-
-- Dart SDK version 2.12.0 or later
-- Flutter SDK version 2.0.0 or later
-
 ### Installation
 
 Add the package to your `pubspec.yaml` file:
@@ -48,16 +41,3 @@ GoogleMap(
     ).createTileOverlays(),
 ),
 ```
-
-For more detailed examples, please refer to the `/example` folder.
-
-## Additional Information
-
-- For more information, visit the [documentation link].
-- If you want to contribute, please read the [contribution guide link].
-- To report issues, use the [issue tracker link].
-- The package authors typically respond within [response time].
-
-## License
-
-This project is licensed under the [License Name] license. For more details, see the `LICENSE` file.
