@@ -8,22 +8,6 @@ This package provides functionality to create smooth transition polygons on Goog
 
 - Smooth transition polygons on Google Maps.
 - Customizable polygon styles and animations.
-- Easy integration with existing Flutter projects.
-
-### Installation
-
-Add the package to your `pubspec.yaml` file:
-
-```yaml
-dependencies:
-  google_map_smooth_polygon: ^1.0.0
-```
-
-Then run the following command in your terminal:
-
-```bash
-flutter pub get
-```
 
 ## Usage
 
